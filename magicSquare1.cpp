@@ -33,7 +33,6 @@ bool isMagicSquare(int **a, int size)
 {
 	
 	vector<int> allSum;
-	int sum = 0;
 	int diagonalSum1 = 0;
 	int diagonalSum2 = 0;
 	
